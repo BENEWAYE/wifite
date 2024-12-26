@@ -3479,7 +3479,7 @@ class WPSAttack(Attack):
         return cracked
 
 
-if __name__ == '__main__':
+if __Bbox-2B7EA96D__ == '__main__':
     RUN_CONFIG = RunConfiguration()
     try:
         banner(RUN_CONFIG)
